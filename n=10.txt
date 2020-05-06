@@ -1,0 +1,981 @@
+
+n=10
+Bag 1 using Open Hashing with my Hashing Function1: 
+	Masterwork Bandit Cleaver, 831
+	Fine Model L-12 Dissection Tool, 162
+	Rare Steam Rifle, 468
+	Rare Bandit Focus, 771
+	Fine Twinspur Pistol, 171
+
+...
+Bag 1 using Linear-Probing Closed Hashing with my Hashing Function1: 
+	Masterwork Sturdy Dryground Village Longbow, 631
+	Fine Warden's Staff, 164
+	Masterwork Test Associate's Staff Mark II, 686
+	Masterwork Bloodsaw Sword, 261
+	Fine Foewatch Shield, 319
+
+...
+Bag 1 using Pseudo-Random-Probing Closed Hashing with my Hashing Function1: 
+	Fine Elmder's Mace, 175
+	Rare Flame Focus, 537
+	Fine Whisper Model K Pistol, 418
+	Masterwork Wren Axe, 657
+	Masterwork Mountain Shield, 463
+
+...
+Bag 1 using Double-Hashing-Probing Closed Hashing with my Hashing Function1: 
+	Masterwork Patient Shield, 331
+	Rare Lionguard Short Bow, 872
+	Fine Foewatch Shield, 319
+	Fine Potatlan's Axe, 480
+	Rare Lionguard Hammer, 462
+
+...
+Bag 1 using Open Hashing with my Hashing Function2: 
+	(Masterwork Fine Caer Longbow, 581); (Rare Shiverpeak Staff, 424); (Rare Shiverpeak Staff, 424);
+	Basic Dull Dagger, 117
+	Rare Glyphic Trispear, 381
+	(Fine Bandit Slicer, 705); (Fine Mountain Shield, 407);
+	Rare Lionguard Cannon, 387
+
+...
+Bag 1 using Linear-Probing Closed Hashing with my Hashing Function2: 
+	Rare Lionguard Scepter, 410
+	Fine Militia Rifle, 188
+	Fine Lionguard-Issue Shield, 167
+	Rare Pirate Flintlock, 389
+	Rare Verdant Short Bow, 577
+
+...
+Bag 1 using Pseudo-Random-Probing Closed Hashing with my Hashing Function2: 
+	Rare Adamant Guard Hammer, 907
+	Rare Glyphic Icon, 348
+	Rare Glyphic Pistol, 394
+	Rare Glyphic Brand, 354
+	Rare Aureate Dirk, 609
+
+...
+Bag 1 using Double-Hashing-Probing Closed Hashing with my Hashing Function2: 
+	Rare Verdant Short Bow, 577
+	Rare Pirate Speargun, 400
+	Rare Lionguard Pistol, 413
+	Rare Shiverpeak Hatchet, 417
+	Rare Ebon Vanguard Dagger, 404
+
+...
+Bag 1 using Open Hashing with my Hashing Function3: 
+	Fine Potatlan's Axe, 480
+	Masterwork Bandit Cleaver, 831
+	Rare Lionguard Short Bow, 845
+	Fine Togatl Trident, 235
+	Rare Peacemaker's Focus, 760
+
+...
+Bag 1 using Linear-Probing Closed Hashing with my Hashing Function3: 
+	Masterwork Bandit Ward, 724
+	Masterwork Test Associate's Staff Mark II, 686
+	Fine Foewatch Shield, 319
+	Masterwork Bandit Cleaver, 831
+	Rare Lionguard Short Bow, 408
+
+...
+Bag 1 using Pseudo-Random-Probing Closed Hashing with my Hashing Function3: 
+	Masterwork Truffle-Baited Harpoon, 248
+	Rare Verdant Mace, 613
+	Rare Seraph Rifle, 974
+	Fine Jeev's Dusty Focus, 238
+	Rare Norn Torch, 531
+
+...
+Bag 1 using Double-Hashing-Probing Closed Hashing with my Hashing Function3: 
+	Rare Aureate Targe, 528
+	Rare Glyphic Longbow, 408
+	Rare Norn Torch, 531
+	Fine Iron Polearm, 788
+	Masterwork Test Associate's Staff Mark II, 686
+
+...
+Bag 2 using Open Hashing with my Hashing Function1: 
+	Fine Warden's Staff, 164
+	Masterwork Bloodsaw Sword, 261
+	Fine Foewatch Shield, 319
+	(Masterwork Bandit Longbow, 837); (Rare Flame Crusher, 656);
+	Rare Lionguard Hammer, 651
+
+...
+Bag 2 using Linear-Probing Closed Hashing with my Hashing Function1: 
+	Masterwork Bandit Ward, 724
+	Rare Seraph Scepter, 828
+	Rare Shiverpeak Wand, 385
+	Rare Pirate Sledge, 459
+	Rare Peacemaker's Greatsword, 973
+
+...
+Bag 2 using Pseudo-Random-Probing Closed Hashing with my Hashing Function1: 
+	Masterwork Bandit Ward, 724
+	Rare Lionguard Pistol, 413
+	Masterwork Sturdy Dryground Village Longbow, 631
+	Rare Norn Torch, 531
+	Fine Warden's Staff, 164
+
+...
+Bag 2 using Double-Hashing-Probing Closed Hashing with my Hashing Function1: 
+	Rare Ebon Vanguard Dagger, 404
+	Masterwork Bandit Ward, 724
+	Rare Seraph Rifle, 974
+	Masterwork Test Associate's Staff Mark II, 686
+	Rare Shiverpeak Wand, 385
+
+...
+Bag 2 using Open Hashing with my Hashing Function2: 
+	Fine Lionguard-Issue Shield, 167
+	(Masterwork Fine Caer Longbow, 581); (Rare Shiverpeak Staff, 424);
+	Fine Carving Knife, 196
+	Fine Kraitbane Model I Pistol, 201
+	Fine Trader's Dagger, 158
+
+...
+Bag 2 using Linear-Probing Closed Hashing with my Hashing Function2: 
+	Rare Bandit Torch, 734
+	Rare Lionguard Sword, 807
+	Fine Lionguard-Issue Shield, 167
+	Rare Ebon Vanguard Axe, 538
+	Rare Seraph Shield, 736
+
+...
+Bag 2 using Pseudo-Random-Probing Closed Hashing with my Hashing Function2: 
+	Masterwork Wren Axe, 657
+	Fine Lionguard-Issue Shield, 167
+	Rare Lionguard Sword, 567
+	Fine Force-Amplifying Impact Device, 172
+	Rare Wolfborn Pistol, 899
+
+...
+Bag 2 using Double-Hashing-Probing Closed Hashing with my Hashing Function2: 
+	Rare Glyphic Icon, 348
+	Rare Glyphic Pistol, 394
+	Rare Aureate Trident, 582
+	Rare Wolfborn Scepter, 879
+	Fine Fireman's Axe, 201
+
+...
+Bag 2 using Open Hashing with my Hashing Function3: 
+	Fine Kraitbane Model I Pistol, 201
+	Rare Aureate Targe, 528
+	Masterwork Sturdy Dryground Village Longbow, 631
+	Rare Lionguard Short Bow, 872
+	(Rare Peacemaker's Focus, 760); (Rare Lionguard Hammer, 452); (Rare Lionguard Hammer, 651);
+
+...
+Bag 2 using Linear-Probing Closed Hashing with my Hashing Function3: 
+	Rare Norn Greatsword, 666
+	Rare Seraph Rifle, 974
+	Masterwork Mountain Shield, 463
+	Rare Adamant Guard Cannon, 815
+	Rare Lionguard Short Bow, 845
+
+...
+Bag 2 using Pseudo-Random-Probing Closed Hashing with my Hashing Function3: 
+	Rare Bandit Demolisher, 958
+	Rare Bandit Mallet, 865
+	Fine Patient Sword, 350
+	Rare Verdant Torch, 541
+	Rare Lionguard Gizmo, 368
+
+...
+Bag 2 using Double-Hashing-Probing Closed Hashing with my Hashing Function3: 
+	Rare Lionguard Sword, 814
+	Rare Pirate Cane, 407
+	Rare Lionguard Axe, 902
+	Rare Ebon Vanguard Shield, 753
+	Masterwork Wren Axe, 657
+
+...
+Bag 3 using Open Hashing with my Hashing Function1: 
+	Rare Lionguard Short Bow, 382
+	Fine Brackwater Scepter, 546
+	Rare Peacemaker's Greatsword, 973
+	Fine Bandit Cleaver, 668
+	Rare Peacemaker's Dagger, 867
+
+...
+Bag 3 using Linear-Probing Closed Hashing with my Hashing Function1: 
+	Masterwork Fine Hunter's Speargun, 518
+	Masterwork Wren Axe, 657
+	Rare Flame Mace, 570
+	Rare Adamant Guard Mace, 818
+	Rare Lionguard Short Bow, 872
+
+...
+Bag 3 using Pseudo-Random-Probing Closed Hashing with my Hashing Function1: 
+	Rare Bandit Ward, 729
+	Fine Exterminator Torch, 163
+	Rare Verdant Mace, 568
+	Fine Mountain Sword, 473
+	Rare Shiverpeak Arquebus, 416
+
+...
+Bag 3 using Double-Hashing-Probing Closed Hashing with my Hashing Function1: 
+	Fine Speargun, 168
+	Rare Lionguard Gizmo, 543
+	Rare Verdant Pistol, 547
+	Rare Shiverpeak Wand, 385
+	Masterwork Bloodsaw Sword, 261
+
+...
+Bag 3 using Open Hashing with my Hashing Function2: 
+	Masterwork Lion's Claw Model II, 209
+	Rare Glyphic Pistol, 394
+	Rare Shiverpeak Staff, 424
+	Rare Wolfborn Staff, 903
+	Rare Shiverpeak Handcannon, 429
+
+...
+Bag 3 using Linear-Probing Closed Hashing with my Hashing Function2: 
+	Masterwork Wren Axe, 657
+	Rare Pirate Flintlock, 389
+	Fine Kraitbane Model I Pistol, 201
+	Fine Trader's Dagger, 158
+	Masterwork Hatchet, 261
+
+...
+Bag 3 using Pseudo-Random-Probing Closed Hashing with my Hashing Function2: 
+	Masterwork Wren Axe, 657
+	Rare Glyphic Icon, 350
+	Rare Ebon Vanguard Mace, 403
+	Masterwork Crusader's Sword, 533
+	Fine Proton Torch, 151
+
+...
+Bag 3 using Double-Hashing-Probing Closed Hashing with my Hashing Function2: 
+	Rare Lionguard Axe, 789
+	Rare Glyphic Spear, 390
+	Basic Wooden Rod, 108
+	Masterwork Fine Caer Longbow, 581
+	Basic Dull Dagger, 117
+
+...
+Bag 3 using Open Hashing with my Hashing Function3: 
+	Rare Aureate Targe, 528
+	(Fine Tamini Axe, 191); (Masterwork Rifle, 249);
+	Rare Shiverpeak Wand, 385
+	(Rare Adamant Guard Cannon, 815); (Fine Foewatch Shield, 319);
+	Rare Lionguard Short Bow, 845
+
+...
+Bag 3 using Linear-Probing Closed Hashing with my Hashing Function3: 
+	Fine Tamini Axe, 191
+	Rare Pirate Billy, 392
+	Fine Potatlan's Axe, 480
+	Rare Lionguard Short Bow, 601
+	Rare Lionguard Short Bow, 573
+
+...
+Bag 3 using Pseudo-Random-Probing Closed Hashing with my Hashing Function3: 
+	Rare Bandit Ward, 729
+	Masterwork Bandit Ward, 724
+	Rare Peacemaker's Pistol, 882
+	Fine Brightgrown Longbow, 157
+	Masterwork Fine Hunter's Harpoon, 550
+
+...
+Bag 3 using Double-Hashing-Probing Closed Hashing with my Hashing Function3: 
+	Rare Lionguard Trident, 385
+	Rare Adamant Guard Rifle, 908
+	Rare Seraph Hammer, 908
+	Fine Lionguard-Issue Sword, 185
+	Rare Shiverpeak Wand, 385
+
+...
+Bag 4 using Open Hashing with my Hashing Function1: 
+	Fine Kraitbane Model I Pistol, 201
+	Rare Aureate Targe, 528
+	Fine Warden's Staff, 164
+	Fine Tamini Axe, 191
+	(Rare Shiverpeak Wand, 385); (Masterwork Fine Hunter's Speargun, 518);
+
+...
+Bag 4 using Linear-Probing Closed Hashing with my Hashing Function1: 
+	Masterwork Patient Shield, 331
+	Rare Flame Focus, 537
+	Fine Potatlan's Axe, 480
+	Rare Lionguard Short Bow, 601
+	Rare Lionguard Short Bow, 408
+
+...
+Bag 4 using Pseudo-Random-Probing Closed Hashing with my Hashing Function1: 
+	Rare Verdant Greatsword, 670
+	Rare Lionguard Pistol, 633
+	Masterwork Bandit Focus, 697
+	Rare Pirate Billy, 392
+	Rare Lionguard Short Bow, 573
+
+...
+Bag 4 using Double-Hashing-Probing Closed Hashing with my Hashing Function1: 
+	Fine Jeev's Dusty Focus, 238
+	Masterwork Perfected Fort Cadence Maul, 546
+	Rare Aureate Targe, 528
+	Masterwork Sturdy Dryground Village Longbow, 631
+	Fine Brackwater Village Focus, 483
+
+...
+Bag 4 using Open Hashing with my Hashing Function2: 
+	Rare Bandit Torch, 734
+	(Rare Glyphic Pistol, 394); (Rare Glyphic Pistol, 380);
+	Rare Aureate Dirk, 609
+	Rare Shiverpeak Staff, 424
+	Rare Glyphic Speargun, 387
+
+...
+Bag 4 using Linear-Probing Closed Hashing with my Hashing Function2: 
+	Rare Wolfborn Staff, 903
+	Rare Glyphic Speargun, 387
+	Fine Bandit Slicer, 705
+	Fine Bandit Slicer, 705
+	Rare Lionguard Cannon, 572
+
+...
+Bag 4 using Pseudo-Random-Probing Closed Hashing with my Hashing Function2: 
+	Rare Bandit Torch, 734
+	Rare Glyphic Icon, 350
+	Rare Lionguard Trident, 834
+	Rare Lionguard Sword, 380
+	Basic Dull Dagger, 117
+
+...
+Bag 4 using Double-Hashing-Probing Closed Hashing with my Hashing Function2: 
+	Rare Pirate Flintlock, 389
+	Rare Aureate Pistol, 602
+	Masterwork Enhanced Miner's Mace Mark G, 218
+	Fine Carving Knife, 196
+	Fine Mountain Shield, 407
+
+...
+Bag 4 using Open Hashing with my Hashing Function3: 
+	Masterwork Patient Shield, 331
+	Masterwork Sturdy Dryground Village Longbow, 631
+	(Masterwork Fine Hunter's Speargun, 518); (Rare Shiverpeak Wand, 385);
+	Rare Flame Mace, 570
+	Rare Lionguard Short Bow, 872
+
+...
+Bag 4 using Linear-Probing Closed Hashing with my Hashing Function3: 
+	Masterwork Rifle, 249
+	Masterwork Rifle, 249
+	Masterwork Wren Axe, 657
+	Fine Foewatch Shield, 319
+	Rare Adamant Guard Cannon, 815
+
+...
+Bag 4 using Pseudo-Random-Probing Closed Hashing with my Hashing Function3: 
+	Fine Kraitbane Model I Pistol, 201
+	Fine Exterminator Torch, 163
+	Fine Hunting Pistol, 159
+	Rare Lionguard Pistol, 852
+	Fine Bandit Revolver, 706
+
+...
+Bag 4 using Double-Hashing-Probing Closed Hashing with my Hashing Function3: 
+	Fine Kraitbane Model I Pistol, 201
+	Rare Wolfborn Greatsword, 973
+	Basic Dull Dagger, 117
+	Rare Seraph Rifle, 974
+	Fine Jeev's Dusty Focus, 238
+
+...
+Bag 5 using Open Hashing with my Hashing Function1: 
+	Rare Norn Greatsword, 666
+	Rare Shiverpeak Wand, 385
+	Masterwork Wren Axe, 657
+	Rare Adamant Guard Mace, 818
+	Rare Lionguard Short Bow, 408
+
+...
+Bag 5 using Linear-Probing Closed Hashing with my Hashing Function1: 
+	Rare Seraph Scepter, 828
+	Masterwork Patient Shield, 331
+	Rare Seraph Rifle, 974
+	Masterwork Test Associate's Staff Mark II, 686
+	Fine Tamini Axe, 191
+
+...
+Bag 5 using Pseudo-Random-Probing Closed Hashing with my Hashing Function1: 
+	Fine Kraitbane Model I Pistol, 201
+	Fine Exterminator Torch, 163
+	Masterwork Bandit Ward, 724
+	Rare Flame Focus, 537
+	Fine Jeev's Dusty Focus, 238
+
+...
+Bag 5 using Double-Hashing-Probing Closed Hashing with my Hashing Function1: 
+	Rare Lionguard Pistol, 418
+	Rare Glyphic Mace, 392
+	Fine Potatlan's Axe, 480
+	Fine Tamini Axe, 191
+	Masterwork Bloodsaw Sword, 261
+
+...
+Bag 5 using Open Hashing with my Hashing Function2: 
+	Masterwork Lion's Claw Model II, 209
+	Rare Shiverpeak Staff, 424
+	Masterwork Improved Pirate Handblade, 545
+	(Rare Glyphic Trispear, 405); (Fine Patient Sword, 350); (Rare Glyphic Trispear, 405);
+	(Fine Carving Knife, 196); (Rare Glyphic Speargun, 409);
+
+...
+Bag 5 using Linear-Probing Closed Hashing with my Hashing Function2: 
+	Rare Lionguard Scepter, 866
+	Rare Peacemaker's Mace, 804
+	Rare Pirate Speargun, 400
+	Rare Peacemaker's Staff, 937
+	Rare Steam Brand, 375
+
+...
+Bag 5 using Pseudo-Random-Probing Closed Hashing with my Hashing Function2: 
+	Rare Aureate Speargun, 606
+	Rare Flame Bow, 615
+	Rare Flame Carrier, 499
+	Rare Shiverpeak Maul, 436
+	Masterwork Balanced Crusader's Mace, 499
+
+...
+Bag 5 using Double-Hashing-Probing Closed Hashing with my Hashing Function2: 
+	Masterwork Lion's Claw Model II, 209
+	Rare Glyphic Icon, 348
+	Rare Ebon Vanguard Pistol, 395
+	Rare Steam Speargun, 385
+	Fine Proton Torch, 151
+
+...
+Bag 5 using Open Hashing with my Hashing Function3: 
+	Masterwork Sturdy Dryground Village Longbow, 631
+	Fine Foewatch Shield, 319
+	Rare Pirate Billy, 392
+	Masterwork Bandit Cleaver, 831
+	(Rare Lionguard Short Bow, 845); (Rare Lionguard Short Bow, 573);
+
+...
+Bag 5 using Linear-Probing Closed Hashing with my Hashing Function3: 
+	Masterwork Sturdy Dryground Village Longbow, 631
+	Rare Flame Mace, 570
+	Rare Lionguard Short Bow, 845
+	Rare Lionguard Hammer, 462
+	Rare Lionguard Hammer, 651
+
+...
+Bag 5 using Pseudo-Random-Probing Closed Hashing with my Hashing Function3: 
+	Fine Kraitbane Model I Pistol, 201
+	Fine Charged Scepter, 179
+	Rare Verdant Mace, 568
+	Rare Ebon Vanguard Axe, 829
+	Masterwork Truffle-Baited Speargun, 246
+
+...
+Bag 5 using Double-Hashing-Probing Closed Hashing with my Hashing Function3: 
+	Rare Norn Torch, 531
+	Fine Tamini Axe, 191
+	Fine Shank Dagger, 748
+	Rare Steam Dagger, 409
+	Rare Adamant Guard Cannon, 815
+
+...
+Bag 6 using Open Hashing with my Hashing Function1: 
+	Rare Norn Greatsword, 666
+	(Rare Seraph Rifle, 974); (Rare Flame Focus, 537);
+	Masterwork Wren Axe, 657
+	Fine Foewatch Shield, 319
+	Rare Pirate Billy, 392
+
+...
+Bag 6 using Linear-Probing Closed Hashing with my Hashing Function1: 
+	Rare Seraph Rifle, 974
+	Masterwork Test Associate's Staff Mark II, 686
+	Rare Shiverpeak Wand, 385
+	Rare Adamant Guard Cannon, 815
+	Masterwork Mountain Shield, 463
+
+...
+Bag 6 using Pseudo-Random-Probing Closed Hashing with my Hashing Function1: 
+	Rare Glyphic Maul, 414
+	Fine Bandit Shiv, 707
+	Masterwork Hunter's Short Bow, 243
+	Rare Glyphic Edge, 408
+	Rare Glyphic Trispear, 405
+
+...
+Bag 6 using Double-Hashing-Probing Closed Hashing with my Hashing Function1: 
+	Masterwork Fine Hunter's Trident, 548
+	Rare Seraph Scepter, 828
+	Rare Flame Focus, 537
+	Masterwork Improved Waterlogged Rifle, 678
+	Rare Norn Torch, 531
+
+...
+Bag 6 using Open Hashing with my Hashing Function2: 
+	(Rare Pirate Flintlock, 389); (Rare Pirate Flintlock, 389); (Rare Pirate Flintlock, 389);
+	(Rare Aureate Speargun, 606); (Rare Wolfborn Rifle, 1017);
+	Fine Proton Torch, 151
+	Masterwork Improved Pirate Handblade, 545
+	(Rare Shiverpeak Handcannon, 429); (Fine Bandit Slicer, 705);
+
+...
+Bag 6 using Linear-Probing Closed Hashing with my Hashing Function2: 
+	Rare Pirate Speargun, 400
+	Rare Steam Brand, 375
+	Fine Proton Torch, 151
+	Rare Adamant Guard Shield, 742
+	Rare Glyphic Trispear, 405
+
+...
+Bag 6 using Pseudo-Random-Probing Closed Hashing with my Hashing Function2: 
+	Masterwork Wren Axe, 657
+	Rare Glyphic Icon, 348
+	Rare Pirate Speargun, 400
+	Rare Verdant Focus, 531
+	Masterwork Ratatosk Pistol, 410
+
+...
+Bag 6 using Double-Hashing-Probing Closed Hashing with my Hashing Function2: 
+	Rare Flame Pistol, 582
+	Fine Crusader's Mace, 453
+	Rare Ebon Vanguard Axe, 380
+	Rare Steamblade, 416
+	Masterwork Improved Pirate Handblade, 545
+
+...
+Bag 6 using Open Hashing with my Hashing Function3: 
+	Fine Kraitbane Model I Pistol, 201
+	Rare Aureate Targe, 528
+	Masterwork Fine Hunter's Speargun, 518
+	(Rare Lionguard Short Bow, 382); (Rare Lionguard Short Bow, 872);
+	Fine Brackwater Scepter, 546
+
+...
+Bag 6 using Linear-Probing Closed Hashing with my Hashing Function3: 
+	Rare Seraph Scepter, 828
+	Rare Flame Focus, 537
+	Fine Foewatch Shield, 319
+	Rare Lionguard Short Bow, 382
+	Rare Lionguard Hammer, 462
+
+...
+Bag 6 using Pseudo-Random-Probing Closed Hashing with my Hashing Function3: 
+	Fine Kraitbane Model I Pistol, 201
+	Rare Seraph Rifle, 974
+	Rare Wolfborn Shield, 801
+	Rare Pirate Billy, 392
+	Rare Lionguard Short Bow, 872
+
+...
+Bag 6 using Double-Hashing-Probing Closed Hashing with my Hashing Function3: 
+	Rare Lionguard Rifle, 692
+	Rare Steam Speargun, 385
+	Masterwork Fine Hunter's Speargun, 518
+	Rare Verdant Rifle, 713
+	Rare Peacemaker's Focus, 760
+
+...
+Bag 7 using Open Hashing with my Hashing Function1: 
+	Rare Seraph Scepter, 828
+	Masterwork Sturdy Dryground Village Longbow, 631
+	Masterwork Test Associate's Staff Mark II, 686
+	Rare Flame Crusher, 656
+	(Rare Lionguard Hammer, 651); (Rare Lionguard Hammer, 920); (Rare Peacemaker's Greatsword, 973);
+
+...
+Bag 7 using Linear-Probing Closed Hashing with my Hashing Function1: 
+	Rare Seraph Rifle, 974
+	Masterwork Mountain Shield, 463
+	Rare Lionguard Short Bow, 845
+	Rare Adamant Guard Hammer, 907
+	Fine Radiation Shield, 175
+
+...
+Bag 7 using Pseudo-Random-Probing Closed Hashing with my Hashing Function1: 
+	Rare Lionguard Greatsword, 676
+	Fine Hylek Fish Poker, 172
+	Masterwork Foewatch Shield, 346
+	Rare Peacemaker's Pistol, 882
+	Rare Ebon Vanguard Focus, 549
+
+...
+Bag 7 using Double-Hashing-Probing Closed Hashing with my Hashing Function1: 
+	Masterwork Bandit Ward, 724
+	Masterwork Truffle-Baited Speargun, 246
+	Fine Hatchet, 136
+	Rare Ebon Vanguard Hammer, 931
+	Rare Norn Torch, 531
+
+...
+Bag 7 using Open Hashing with my Hashing Function2: 
+	(Rare Bandit Torch, 734); (Masterwork Wren Axe, 657);
+	Rare Wolfborn Rifle, 1017
+	Rare Glyphic Pistol, 394
+	Rare Adamant Guard Shield, 742
+	Masterwork Improved Pirate Handblade, 545
+
+...
+Bag 7 using Linear-Probing Closed Hashing with my Hashing Function2: 
+	Rare Lionguard Sword, 807
+	Rare Lionguard Scepter, 890
+	Rare Glyphic Icon, 350
+	Rare Glyphic Pistol, 380
+	Rare Adamant Guard Shield, 742
+
+...
+Bag 7 using Pseudo-Random-Probing Closed Hashing with my Hashing Function2: 
+	Rare Pirate Flintlock, 389
+	Masterwork Shiny Scratch Rifle, 585
+	Rare Ebon Vanguard Sword, 398
+	Rare Seraph Pistol, 866
+	Masterwork Fine Caer Longbow, 581
+
+...
+Bag 7 using Double-Hashing-Probing Closed Hashing with my Hashing Function2: 
+	Rare Pirate Flintlock, 389
+	Rare Lionguard Short Bow, 382
+	Rare Aureate Dirk, 609
+	Rare Adamant Guard Shield, 742
+	Rare Wolfborn Pistol, 899
+
+...
+Bag 7 using Open Hashing with my Hashing Function3: 
+	Fine Mountain Sword, 473
+	Rare Shiverpeak Wand, 385
+	Rare Pirate Billy, 392
+	Masterwork Bandit Longbow, 837
+	(Rare Lionguard Hammer, 920); (Rare Lionguard Hammer, 965);
+
+...
+Bag 7 using Linear-Probing Closed Hashing with my Hashing Function3: 
+	Rare Aureate Targe, 528
+	Fine Mountain Sword, 473
+	Rare Adamant Guard Cannon, 815
+	Rare Flame Mace, 570
+	Rare Flame Trident, 609
+
+...
+Bag 7 using Pseudo-Random-Probing Closed Hashing with my Hashing Function3: 
+	Rare Wolfborn Greatsword, 973
+	Rare Flame Focus, 537
+	Masterwork Caer Brier Mace, 627
+	Rare Shiverpeak Arquebus, 416
+	Rare Ebon Vanguard Axe, 829
+
+...
+Bag 7 using Double-Hashing-Probing Closed Hashing with my Hashing Function3: 
+	Rare Ebon Vanguard Axe, 380
+	Rare Lionguard Pistol, 852
+	Rare Flame Focus, 537
+	Rare Krytan Scepter, 414
+	Rare Lionguard Shield, 549
+
+...
+Bag 8 using Open Hashing with my Hashing Function1: 
+	Rare Seraph Scepter, 828
+	(Masterwork Patient Shield, 331); (Rare Seraph Rifle, 974);
+	Masterwork Fine Hunter's Speargun, 518
+	Masterwork Mountain Shield, 463
+	Rare Flame Mace, 570
+
+...
+Bag 8 using Linear-Probing Closed Hashing with my Hashing Function1: 
+	Masterwork Bandit Ward, 724
+	Masterwork Rifle, 249
+	Fine Foewatch Shield, 319
+	Rare Adamant Guard Cannon, 815
+	Rare Iron Polearm, 839
+
+...
+Bag 8 using Pseudo-Random-Probing Closed Hashing with my Hashing Function1: 
+	Rare Glyphic Maul, 450
+	Rare Norn Staff, 675
+	Fine Mountain Sword, 473
+	Masterwork Rifle, 249
+	Masterwork Bandit Focus, 697
+
+...
+Bag 8 using Double-Hashing-Probing Closed Hashing with my Hashing Function1: 
+	Fine Champion's Greatsword, 185
+	Masterwork Wren Axe, 657
+	Rare Shiverpeak Wand, 385
+	Masterwork Wren Axe, 657
+	Rare Peacemaker's Greatsword, 973
+
+...
+Bag 8 using Open Hashing with my Hashing Function2: 
+	Rare Pirate Flintlock, 389
+	(Rare Aureate Speargun, 606); (Rare Wolfborn Rifle, 1017); (Rare Wolfborn Rifle, 1017);
+	Rare Glyphic Pistol, 394
+	Fine Carving Knife, 196
+	(Masterwork Balanced Crusader's Mace, 499); (Masterwork Balanced Crusader's Mace, 499);
+
+...
+Bag 8 using Linear-Probing Closed Hashing with my Hashing Function2: 
+	Masterwork Wren Axe, 657
+	Rare Lionguard Sword, 814
+	Fine Lionguard-Issue Shield, 167
+	Rare Glyphic Pistol, 394
+	Rare Verdant Short Bow, 577
+
+...
+Bag 8 using Pseudo-Random-Probing Closed Hashing with my Hashing Function2: 
+	Masterwork Lion's Claw Model II, 209
+	Fine Jeev's Dusty Scepter, 269
+	Rare Aureate Speargun, 606
+	Rare Ebon Vanguard Mace, 403
+	Masterwork Patient Sword, 390
+
+...
+Bag 8 using Double-Hashing-Probing Closed Hashing with my Hashing Function2: 
+	Rare Glyphic Icon, 350
+	Rare Glyphic Pistol, 380
+	Fine Quetzal Trident, 178
+	Fine Longbow, 185
+	Rare Glyphic Trispear, 405
+
+...
+Bag 8 using Open Hashing with my Hashing Function3: 
+	Fine Kraitbane Model I Pistol, 201
+	(Rare Norn Greatsword, 666); (Rare Seraph Scepter, 828);
+	Rare Adamant Guard Cannon, 815
+	Rare Adamant Guard Mace, 818
+	Rare Lionguard Short Bow, 845
+
+...
+Bag 8 using Linear-Probing Closed Hashing with my Hashing Function3: 
+	Masterwork Bandit Ward, 724
+	Masterwork Wren Axe, 657
+	Rare Flame Crusher, 656
+	Fine Togatl Trident, 235
+	Rare Lionguard Hammer, 651
+
+...
+Bag 8 using Pseudo-Random-Probing Closed Hashing with my Hashing Function3: 
+	Masterwork Bandit Ward, 724
+	Masterwork Patient Shield, 331
+	Masterwork Sturdy Dryground Village Longbow, 631
+	Fine Wardenhurst Mace, 142
+	Masterwork Rifle, 249
+
+...
+Bag 8 using Double-Hashing-Probing Closed Hashing with my Hashing Function3: 
+	Rare Seraph Rifle, 974
+	Rare Wolfborn Scepter, 879
+	Rare Norn Torch, 531
+	Fine Warden's Staff, 164
+	Masterwork Test Associate's Staff Mark II, 686
+
+...
+Bag 9 using Open Hashing with my Hashing Function1: 
+	(Fine Mountain Sword, 473); (Rare Aureate Targe, 528);
+	(Masterwork Sturdy Dryground Village Longbow, 631); (Masterwork Sturdy Dryground Village Longbow, 631);
+	Rare Norn Torch, 531
+	(Masterwork Rifle, 249); (Masterwork Test Associate's Staff Mark II, 686);
+	Masterwork Fine Hunter's Speargun, 518
+
+...
+Bag 9 using Linear-Probing Closed Hashing with my Hashing Function1: 
+	Masterwork Bandit Ward, 724
+	Masterwork Test Associate's Staff Mark II, 686
+	Rare Shiverpeak Wand, 385
+	Masterwork Wren Axe, 657
+	Masterwork Test Associate's Staff Mark II, 686
+
+...
+Bag 9 using Pseudo-Random-Probing Closed Hashing with my Hashing Function1: 
+	Rare Glyphic Maul, 414
+	Rare Norn Greatsword, 666
+	Rare Ebon Vanguard Staff, 931
+	Masterwork Sturdy Dryground Village Longbow, 631
+	Fine Warden's Staff, 164
+
+...
+Bag 9 using Double-Hashing-Probing Closed Hashing with my Hashing Function1: 
+	Rare Steam Hammer, 430
+	Fine Mountain Sword, 473
+	Rare Lionguard Bow, 831
+	Rare Warden Hammer, 934
+	Fine Windgrown Short Bow, 155
+
+...
+Bag 9 using Open Hashing with my Hashing Function2: 
+	Masterwork Lion's Claw Model II, 209
+	(Rare Glyphic Icon, 350); (Rare Glyphic Icon, 350);
+	Rare Adamant Guard Shield, 742
+	Fine Carving Knife, 196
+	(Fine Mountain Shield, 407); (Fine Bandit Slicer, 705);
+
+...
+Bag 9 using Linear-Probing Closed Hashing with my Hashing Function2: 
+	Rare Lionguard Scepter, 377
+	Rare Glyphic Icon, 348
+	Rare Seraph Speargun, 863
+	Fine Proton Torch, 151
+	Rare Adamant Guard Shield, 742
+
+...
+Bag 9 using Pseudo-Random-Probing Closed Hashing with my Hashing Function2: 
+	Masterwork Lion's Claw Model II, 209
+	Rare Pirate Speargun, 400
+	Fine Force-Amplifying Impact Device, 172
+	Rare Wolfborn Pistol, 899
+	Rare Glyphic Trispear, 381
+
+...
+Bag 9 using Double-Hashing-Probing Closed Hashing with my Hashing Function2: 
+	Rare Adamant Guard Staff, 942
+	Fine Lionguard-Issue Shield, 167
+	Rare Steam Brand, 375
+	Rare Shiverpeak Staff, 424
+	Masterwork Bandit Baton, 782
+
+...
+Bag 9 using Open Hashing with my Hashing Function3: 
+	Fine Kraitbane Model I Pistol, 201
+	Masterwork Sturdy Dryground Village Longbow, 631
+	Rare Flame Mace, 570
+	Masterwork Bandit Cleaver, 831
+	(Fine Brackwater Scepter, 546); (Masterwork Bandit Longbow, 837);
+
+...
+Bag 9 using Linear-Probing Closed Hashing with my Hashing Function3: 
+	Rare Norn Torch, 531
+	Rare Adamant Guard Cannon, 815
+	Rare Lionguard Short Bow, 573
+	Rare Lionguard Hammer, 965
+	Rare Lionguard Hammer, 920
+
+...
+Bag 9 using Pseudo-Random-Probing Closed Hashing with my Hashing Function3: 
+	Rare Lionguard Trident, 385
+	Rare Bandit Baton, 841
+	Masterwork Fine Hunter's Speargun, 518
+	Masterwork Bloodsaw Sword, 261
+	Fine Potatlan's Axe, 480
+
+...
+Bag 9 using Double-Hashing-Probing Closed Hashing with my Hashing Function3: 
+	Masterwork Bandit Sunderer, 826
+	Rare Norn Greatsword, 666
+	Masterwork Patient Shield, 331
+	Masterwork Sturdy Dryground Village Longbow, 631
+	Rare Norn Torch, 531
+
+...
+Bag 10 using Open Hashing with my Hashing Function1: 
+	Fine Kraitbane Model I Pistol, 201
+	Rare Norn Greatsword, 666
+	Fine Potatlan's Axe, 480
+	Masterwork Bandit Cleaver, 831
+	(Rare Peacemaker's Focus, 760); (Rare Peacemaker's Focus, 760);
+
+...
+Bag 10 using Linear-Probing Closed Hashing with my Hashing Function1: 
+	Masterwork Wyld Greatsword, 263
+	Masterwork Wyld Greatsword, 263
+	Rare Aureate Targe, 528
+	Fine Mountain Sword, 473
+	Masterwork Test Associate's Staff Mark II, 686
+
+...
+Bag 10 using Pseudo-Random-Probing Closed Hashing with my Hashing Function1: 
+	Rare Lionguard Rifle, 692
+	Masterwork Patient Shield, 331
+	Rare Ebon Vanguard Focus, 549
+	Fine Warden's Staff, 164
+	Rare Lionguard Gizmo, 543
+
+...
+Bag 10 using Double-Hashing-Probing Closed Hashing with my Hashing Function1: 
+	Rare Pirate Bloodletter, 394
+	Fine Proton Torch, 151
+	Fine Experimental Collection Staff, 481
+	Masterwork Test Associate's Staff Mark II, 686
+	Rare Adamant Guard Cannon, 815
+
+...
+Bag 10 using Open Hashing with my Hashing Function2: 
+	Fine Militia Rifle, 188
+	(Rare Pirate Speargun, 400); (Rare Aureate Speargun, 606);
+	Rare Aureate Dirk, 609
+	Rare Glyphic Trispear, 381
+	Rare Glyphic Speargun, 387
+
+...
+Bag 10 using Linear-Probing Closed Hashing with my Hashing Function2: 
+	Rare Glyphic Icon, 348
+	Fine Lionguard-Issue Shield, 167
+	Rare Glyphic Pistol, 380
+	Masterwork Bandit Baton, 782
+	Rare Glyphic Trispear, 381
+
+...
+Bag 10 using Pseudo-Random-Probing Closed Hashing with my Hashing Function2: 
+	Rare Pirate Speargun, 400
+	Rare Glyphic Pistol, 380
+	Masterwork Patient Sword, 390
+	Rare Aureate Dirk, 609
+	Rare Steam Hammer, 430
+
+...
+Bag 10 using Double-Hashing-Probing Closed Hashing with my Hashing Function2: 
+	Masterwork Lion's Claw Model II, 209
+	Rare Wolfborn Rifle, 1017
+	Rare Aureate Dirk, 609
+	Rare Shiverpeak Beacon, 363
+	Fine Wyld Greatsword, 249
+
+...
+Bag 10 using Open Hashing with my Hashing Function3: 
+	Masterwork Bandit Ward, 724
+	Fine Warden's Staff, 164
+	Rare Pirate Billy, 392
+	(Rare Lionguard Short Bow, 601); (Rare Lionguard Short Bow, 382);
+	Fine Model L-12 Dissection Tool, 162
+
+...
+Bag 10 using Linear-Probing Closed Hashing with my Hashing Function3: 
+	Fine Warden's Staff, 164
+	Fine Warden's Staff, 164
+	Masterwork Fine Hunter's Speargun, 518
+	Fine Foewatch Shield, 319
+	Rare Adamant Guard Mace, 818
+
+...
+Bag 10 using Pseudo-Random-Probing Closed Hashing with my Hashing Function3: 
+	Fine Exterminator Torch, 163
+	Masterwork Bandit Ward, 724
+	Fine Thunderhead Axe, 475
+	Rare Shiverpeak Wand, 385
+	Rare Glyphic Edge, 405
+
+...
+Bag 10 using Double-Hashing-Probing Closed Hashing with my Hashing Function3: 
+	Rare Warden Dagger, 828
+	Rare Flame Focus, 537
+	Rare Zweihander, 430
+	Rare Shiverpeak Handcannon, 429
+	Masterwork Wren Axe, 657
+
+...
+
+Searching for Rare Glyphic Edge... 
+Found in (bag 1 slots 153,  Strengths: 405) (bag 2 slots 153,  Strengths: 408) (bag 2 slots 177,  Strengths: 408) (bag 2 slots 153,  Strengths: 408) (bag 3 slots 153,  Strengths: 405) (bag 3 slots 177,  Strengths: 408) (bag 3 slots 177,  Strengths: 408) (bag 3 slots 177,  Strengths: 405) (bag 3 slots 177,  Strengths: 408) (bag 4 slots 177,  Strengths: 405) (bag 4 slots 153,  Strengths: 408) (bag 5 slots 177,  Strengths: 405) (bag 5 slots 153,  Strengths: 408) (bag 5 slots 153,  Strengths: 405) (bag 6 slots 153,  Strengths: 405) (bag 6 slots 153. 153,  Strengths: 405, 408, 405, 408) (bag 7 slots 153,  Strengths: 408) (bag 8 slots 153,  Strengths: 408) (bag 8 slots 177,  Strengths: 408) (bag 8 slots 177,  Strengths: 405) (bag 8 slots 154,  Strengths: 408) (bag 8 slots 153,  Strengths: 405) (bag 9 slots 153,  Strengths: 408) (bag 9 slots 177,  Strengths: 405) (bag 9 slots 177,  Strengths: 405) (bag 9 slots 153. 153,  Strengths: 408, 405, 408, 405) (bag 9 slots 153,  Strengths: 408) (bag 10 slots 153,  Strengths: 408) (bag 10 slots 177. 177,  Strengths: 408, 405, 408, 405) (bag 10 slots 177,  Strengths: 405) (bag 10 slots 153,  Strengths: 408) (bag 10 slots 153,  Strengths: 408)
+
+Searching for Fine Skale-Smacking Stick... 
+Found in (bag 1 slots 189,  Strengths: 215) (bag 2 slots 189,  Strengths: 215) (bag 3 slots 88,  Strengths: 215) (bag 3 slots 189,  Strengths: 215) (bag 3 slots 189,  Strengths: 215) (bag 4 slots 88,  Strengths: 215) (bag 4 slots 88,  Strengths: 215) (bag 4 slots 88,  Strengths: 215) (bag 4 slots 192,  Strengths: 215) (bag 4 slots 189,  Strengths: 215) (bag 4 slots 196. 120,  Strengths: 215, 215) (bag 5 slots 88,  Strengths: 215) (bag 6 slots 88. 89,  Strengths: 215, 215) (bag 6 slots 196,  Strengths: 215) (bag 7 slots 88,  Strengths: 215) (bag 7 slots 88,  Strengths: 215) (bag 7 slots 88,  Strengths: 215) (bag 9 slots 88,  Strengths: 215) (bag 9 slots 190,  Strengths: 215) (bag 9 slots 88,  Strengths: 215) (bag 10 slots 88,  Strengths: 215)
+
+Searching for Fine Quetzal Trident... 
+Found in (bag 1 slots 29,  Strengths: 178) (bag 3 slots 173,  Strengths: 178) (bag 3 slots 173,  Strengths: 178) (bag 4 slots 173,  Strengths: 178) (bag 4 slots 173,  Strengths: 178) (bag 4 slots 173,  Strengths: 178) (bag 4 slots 173,  Strengths: 178) (bag 5 slots 173,  Strengths: 178) (bag 5 slots 173,  Strengths: 178) (bag 6 slots 173,  Strengths: 178) (bag 6 slots 29,  Strengths: 178) (bag 6 slots 176,  Strengths: 178) (bag 7 slots 173,  Strengths: 178) (bag 7 slots 173,  Strengths: 178) (bag 7 slots 173,  Strengths: 178) (bag 7 slots 128,  Strengths: 178) (bag 8 slots 173,  Strengths: 178) (bag 8 slots 5,  Strengths: 178) (bag 9 slots 173. 173,  Strengths: 178, 178)
+
+Searching for Rare Lionguard Dagger... 
+Found in (bag 1 slots 174. 174,  Strengths: 578, 823, 578, 823) (bag 1 slots 174. 175,  Strengths: 391, 408) (bag 1 slots 174,  Strengths: 582) (bag 1 slots 174,  Strengths: 823) (bag 1 slots 147. 147,  Strengths: 823, 868, 823, 868) (bag 1 slots 147,  Strengths: 582) (bag 1 slots 174,  Strengths: 391) (bag 1 slots 174. 54,  Strengths: 578, 408) (bag 2 slots 174,  Strengths: 578) (bag 2 slots 174,  Strengths: 868) (bag 2 slots 147,  Strengths: 578) (bag 2 slots 147,  Strengths: 823) (bag 2 slots 91,  Strengths: 391) (bag 2 slots 174. 175,  Strengths: 391, 408) (bag 2 slots 174. 95,  Strengths: 868, 823) (bag 3 slots 174. 174,  Strengths: 391, 408, 391, 408) (bag 3 slots 174. 180. 129,  Strengths: 868, 408, 578) (bag 3 slots 147. 147,  Strengths: 391, 582, 391, 582) (bag 3 slots 147,  Strengths: 582) (bag 3 slots 174. 177,  Strengths: 391, 582) (bag 4 slots 175. 176. 177,  Strengths: 868, 391, 823) (bag 4 slots 174,  Strengths: 868) (bag 4 slots 147. 147,  Strengths: 408, 823, 408, 823) (bag 4 slots 147,  Strengths: 823) (bag 4 slots 174,  Strengths: 408) (bag 4 slots 174,  Strengths: 408) (bag 5 slots 174,  Strengths: 582) (bag 5 slots 174,  Strengths: 582) (bag 5 slots 147,  Strengths: 582) (bag 5 slots 147,  Strengths: 823) (bag 5 slots 168,  Strengths: 868) (bag 5 slots 174. 174,  Strengths: 408, 391, 408, 391) (bag 5 slots 174,  Strengths: 391) (bag 5 slots 174. 115,  Strengths: 391, 391) (bag 6 slots 174,  Strengths: 408) (bag 6 slots 147,  Strengths: 823) (bag 6 slots 148,  Strengths: 582) (bag 6 slots 107. 101,  Strengths: 868, 823) (bag 6 slots 174,  Strengths: 823) (bag 6 slots 174. 39. 174,  Strengths: 582, 868, 582) (bag 7 slots 174,  Strengths: 408) (bag 7 slots 148,  Strengths: 391) (bag 7 slots 138,  Strengths: 582) (bag 7 slots 174,  Strengths: 408) (bag 7 slots 174,  Strengths: 582) (bag 7 slots 174,  Strengths: 578) (bag 8 slots 174. 174. 174,  Strengths: 868, 823, 391, 868, 823, 391, 868, 823, 391) (bag 8 slots 174,  Strengths: 408) (bag 8 slots 174. 168,  Strengths: 578, 823) (bag 8 slots 147. 147. 147,  Strengths: 408, 408, 582, 408, 408, 582, 408, 408, 582) (bag 8 slots 150,  Strengths: 578) (bag 8 slots 147,  Strengths: 408) (bag 8 slots 174,  Strengths: 408) (bag 8 slots 174,  Strengths: 578) (bag 8 slots 174,  Strengths: 391) (bag 9 slots 177. 178,  Strengths: 391, 408) (bag 9 slots 174. 174. 178,  Strengths: 582, 582, 578) (bag 9 slots 149,  Strengths: 868) (bag 9 slots 174,  Strengths: 582) (bag 9 slots 174,  Strengths: 408) (bag 9 slots 80,  Strengths: 578) (bag 10 slots 174. 175. 177,  Strengths: 408, 823, 391) (bag 10 slots 147,  Strengths: 868) (bag 10 slots 147,  Strengths: 823) (bag 10 slots 174. 175. 176,  Strengths: 823, 391, 578) (bag 10 slots 174. 72,  Strengths: 408, 578)
+
+Searching for Rare Pirate Barricade... 
+Found in (bag 1 slots 109,  Strengths: 376) (bag 1 slots 109. 88,  Strengths: 376, 376) (bag 3 slots 109,  Strengths: 376) (bag 4 slots 111,  Strengths: 376) (bag 4 slots 189,  Strengths: 376) (bag 4 slots 109,  Strengths: 376) (bag 4 slots 109,  Strengths: 376) (bag 5 slots 109,  Strengths: 376) (bag 6 slots 109,  Strengths: 376) (bag 7 slots 109,  Strengths: 376) (bag 8 slots 110,  Strengths: 376) (bag 8 slots 75,  Strengths: 376) (bag 8 slots 75,  Strengths: 376) (bag 8 slots 75,  Strengths: 376) (bag 9 slots 75,  Strengths: 376) (bag 10 slots 109,  Strengths: 376)
+
+
+Total average
+1682 2084 1576 1902 1803 2186 1462 3148 1223 1682 1319 27024 
